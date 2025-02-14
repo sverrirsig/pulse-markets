@@ -94,7 +94,12 @@ export default function Home() {
           localTime="9:30 AM - 4:00 PM HKT"
           nextEvent="Opens in 2h"
         />
-        <MarketStatus name="Crypto Market" status="open" localTime="24/7" />
+        <MarketStatus
+          name="Frankfurt Stock Exchange"
+          status="closed"
+          localTime="9:00 AM - 5:30 PM CET"
+          nextEvent="Opens in 3h"
+        />
       </div>
 
       <div className="flex-1 min-h-0 pb-6">

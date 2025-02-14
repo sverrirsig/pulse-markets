@@ -11,23 +11,26 @@
   "dependencies": {
     "chart.js": "^4.4.7",
     "d3-scale": "^4.0.2",
-    "finnhub": "^1.2.19",
-    "next": "15.1.7",
-    "react": "^19.0.0",
-    "react-chartjs-2": "^5.3.0",
-    "react-dom": "^19.0.0",
+    "next": "14.0.4",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
     "react-simple-maps": "^3.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.0",
     "@types/react-simple-maps": "^3.0.6",
-    "eslint": "^9",
-    "eslint-config-next": "15.1.7",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.16",
+    "css-loader": "^7.1.2",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8.4.32",
+    "postcss-loader": "^8.1.1",
+    "style-loader": "^4.0.0",
+    "tailwindcss": "^3.3.0",
     "typescript": "^5"
   }
 }
